@@ -1,0 +1,84 @@
+ body {
+            font-family: 'Serif', Georgia, Times, serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 900px;
+            padding: 2rem;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+            border-bottom: 2px solid #333;
+            padding-bottom: 1rem;
+        }
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 2rem;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 0.5rem;
+        }
+        h3 {
+            font-size: 1.3rem;
+            margin-top: 1.5rem;
+        }
+        .author {
+            font-style: italic;
+            margin-bottom: 0.5rem;
+        }
+        .abstract {
+            font-style: italic;
+            margin: 2rem 0;
+            padding: 1rem;
+            background-color: #f0f0f0;
+            border-left: 4px solid #666;
+        }
+        .keywords {
+            margin-bottom: 2rem;
+        }
+        figure {
+            margin: 2rem 0;
+            text-align: center;
+        }
+        figure img {
+            max-width: 100%;
+            height: auto;
+        }
+        figcaption {
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+            font-style: italic;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .citation {
+            font-size: 0.9rem;
+            margin: 2rem 0;
+        }
+        .references {
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 2px solid #333;
+        }
+        .references ol {
+            padding-left: 1.5rem;
+        }
+        .references li {
+            margin-bottom: 0.75rem;
+        }
