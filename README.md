@@ -25,6 +25,6 @@ MR Headset Experience: Explore accommodations remotely with MR support — get a
 
 Figma itself does not support full VR simulation (like head tracking or stereoscopic 3D), so the features of viewing a 360° accommodation in VR has been momentarily replaced with a static picture in this prototype.
 
-🧪 Prototype Link
+ Prototype Link
 
 ➡️ [View the Figma Prototype](https://www.figma.com/design/8btrtqhaIpHGesVXsFgyuJ/Horesca-Traveling?node-id=66-622&t=xPq15ocKb5nnFPow-1)
